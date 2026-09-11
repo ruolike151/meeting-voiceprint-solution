@@ -1,0 +1,42 @@
+# ---- 隐私数据：真实会议录音与员工声纹注册音频（含生物特征，禁止上传）----
+data/
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.ogg
+*.opus
+*.aac
+*.mp4
+*.webm
+
+# ---- 隐私数据：真实会议转写文本、人工校正配置与识别输出 ----
+phase1_whisperx_stt/config/speaker_corrections.*.json
+phase1_whisperx_stt/outputs/
+phase1_whisperx_stt/benchmark_outputs/
+
+# ---- 大文件与模型权重（本地生成，不入库）----
+phase1_whisperx_stt/.venv/
+phase1_whisperx_stt/models/
+phase1_whisperx_stt/.cache/
+phase1_whisperx_stt/.bin/
+
+# ---- Python 缓存 ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ---- 本地环境与编辑器配置 ----
+.env
+.venv/
+.vscode/
+
+# ---- 渲染中间产物 ----
+rendered/
+rendered_word/
+rendered_word_v2/
+rendered_word_v3/
+
+# ---- Office 临时文件 ----
+~$*

@@ -1,0 +1,12 @@
+{
+  "model": "medium",
+  "device": "auto",
+  "compute_type": "auto",
+  "language": "auto",
+  "batch_size": 16,
+  "align": true,
+  "normalize_audio": true,
+  "sample_rate": 16000,
+  "channels": 1
+}
+

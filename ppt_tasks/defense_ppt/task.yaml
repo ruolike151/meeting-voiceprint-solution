@@ -1,0 +1,16 @@
+﻿task_type: presentation
+title: ""
+language: ""
+audience: ""
+scenario: ""
+research_required: false
+research_question: ""
+generation_mode: Build
+direction_confirmation_required: true
+theme_lock_version: null
+resolved_theme_path: ""
+resolved_theme_fingerprint: "1fb8477087f151fc4823e4371b55ffb830683d9ef59044daff613c87029035a2"
+resolved_theme_seed: null
+pptx_designer_version: "1.0.0b11"
+pptx_designer_module_path: "C:\\Users\\lenovo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pptx_designer\\__init__.py"
+status: INIT

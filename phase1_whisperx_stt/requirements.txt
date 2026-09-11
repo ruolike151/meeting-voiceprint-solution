@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+whisperx==3.8.6
+torch==2.8.0+cu128
+torchaudio==2.8.0+cu128
+torchvision==0.23.0+cu128
+numpy
+tqdm
+imageio-ffmpeg
+soundfile
+jiwer
+hf_xet
+speechbrain==1.1.0
+hyperpyyaml==1.2.3
+sentencepiece==0.2.2

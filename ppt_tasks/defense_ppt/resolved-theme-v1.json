@@ -1,0 +1,90 @@
+{
+  "name": "minimalism-swiss-style+sidebar-nav+standard",
+  "colors": {
+    "primary": "#475569",
+    "on-primary": "#FFFFFF",
+    "secondary": "#64748B",
+    "accent": "#94A3B8",
+    "background": "#F8FAFC",
+    "foreground": "#0F172A",
+    "muted": "#F1F5F9",
+    "muted-foreground": "#94A3B8",
+    "border": "#E2E8F0",
+    "destructive": "#EF4444"
+  },
+  "typography": {
+    "heading": "Microsoft YaHei",
+    "body": "Microsoft YaHei"
+  },
+  "dark_mode": false,
+  "decoration": {
+    "name": "Sidebar Navigation",
+    "left_accent": true,
+    "title_underline": true,
+    "card_top_bar": true,
+    "sidebar": true,
+    "description": "Left sidebar with section info"
+  },
+  "layout_variant": {
+    "name": "Standard",
+    "content_margin_left": 0.9,
+    "content_margin_right": 0.9,
+    "title_alignment": "left",
+    "card_style": "rounded",
+    "description": "Standard left-aligned layout"
+  },
+  "text_effect_preset": "steel",
+  "image_effect": "soft_edge",
+  "semantic_roles": {
+    "background": "#F8FAFC",
+    "surface": "#F1F5F9",
+    "ink": "#0F172A",
+    "muted": "#94A3B8",
+    "accent": "#94A3B8",
+    "accent-secondary": "#64748B",
+    "success": "#94A3B8",
+    "warning": "#64748B",
+    "danger": "#EF4444",
+    "border": "#E2E8F0",
+    "data-series-1": "#475569",
+    "data-series-2": "#94A3B8"
+  },
+  "source": {
+    "requested": {
+      "style": "minimalism-swiss-style",
+      "palette": null,
+      "fonts": null,
+      "decoration": null,
+      "layout": null,
+      "mood": null,
+      "seed": 7,
+      "query": null,
+      "text_effect_preset": null,
+      "image_effect": null
+    },
+    "resolved": {
+      "style": "minimalism-swiss-style",
+      "palette": "slate-minimal",
+      "fonts": "modern-sans",
+      "decoration": "sidebar-nav",
+      "layout": "standard",
+      "mood": [
+        "professional"
+      ]
+    },
+    "seed": 7,
+    "resolver": "local",
+    "package_version": "1.0.0b11",
+    "fallbacks": [],
+    "warnings": []
+  },
+  "atoms": {
+    "palette": "slate-minimal",
+    "fonts": "modern-sans",
+    "decoration": "sidebar-nav",
+    "layout": "standard",
+    "moods": [
+      "professional"
+    ]
+  }
+}

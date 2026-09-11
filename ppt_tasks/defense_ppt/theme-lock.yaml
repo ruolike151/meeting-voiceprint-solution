@@ -1,0 +1,17 @@
+﻿version: null
+status: DRAFT
+user_confirmed_at: ""
+visual_thesis: ""
+audience_promise: ""
+style_input: ""
+seed: null
+intended_tokens:
+  palette: ""
+  typography: ""
+  decoration: ""
+  layout: ""
+visual_grammar: {}
+deck_rhythm: {}
+forbidden_patterns: []
+resolved_theme_path: ""
+resolved_theme_fingerprint: "1fb8477087f151fc4823e4371b55ffb830683d9ef59044daff613c87029035a2"
